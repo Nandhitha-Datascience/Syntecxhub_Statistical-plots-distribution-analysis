@@ -1,0 +1,2 @@
+
+The sales distribution is highly positively skewed, with most values concentrated at lower ranges and a few extremely high values forming a long right tail. The histogram and KDE plot confirm this uneven distribution, while the boxplot clearly highlights the presence of significant outliers. The high skewness indicates that a small number of large transactions contribute disproportionately to overall sales, resulting in a wide spread of data.
