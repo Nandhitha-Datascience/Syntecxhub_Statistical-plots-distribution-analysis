@@ -20,11 +20,16 @@ This project analyzes the distribution of sales data using statistical and visua
 - data/-Dataset  
 - output-Charts and summary  
 
-## 🔧 Tools Used
+## Tools Used
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
+
+## Visualizations
+![Histogram](histogram_sales.png)
+![KDE](kde_sales.png)
+![Boxplot](boxplot_sales.png)
 
 ## Conclusion
 The analysis highlights the importance of understanding data distribution and identifying outliers in real-world datasets.
